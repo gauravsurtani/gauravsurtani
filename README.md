@@ -1,5 +1,5 @@
 <div align="center">
-  
+
 # 👋 Hi there, I'm Gaurav Surtani!
 
 ### 🎯 Full-Stack AI Developer | Data Engineer | ML Enthusiast
@@ -17,11 +17,11 @@ class GauravSurtani:
     def __init__(self):
         self.name = "Gaurav Surtani"
         self.location = "San Jose, CA 🌉"
-        self.current_work = ["Bexorg", "NASA", "SJSU RF"]
-        self.current_focus = "Full-Stack AI Development"
+        self.current_work = ["Open to Work", "Building AI Tools"]
+        self.current_focus = "Full-Stack AI & Agentic Systems"
         self.interests = ["AI/ML", "Data Engineering", "NLP", "Knowledge Graphs"]
         self.hobbies = ["Building Chrome Extensions", "Data Science", "Open Source"]
-    
+
     def say_hi(self):
         print("Thanks for dropping by! Let's build something amazing together 🚀")
 
@@ -29,10 +29,10 @@ me = GauravSurtani()
 me.say_hi()
 ```
 
-🔭 **Currently working on:** Building intelligent solutions that bridge AI and practical applications  
-🌱 **Learning:** Advanced ML techniques, Agentic AI systems, and modern web technologies  
-💡 **Passionate about:** Creating tools that solve real-world problems using data and AI  
-🎯 **2024 Goal:** Become a well-rounded Full-Stack AI Developer  
+🔭 **Currently working on:** Building intelligent AI tools and exploring real-time translation
+🌱 **Learning:** Advanced ML techniques, Agentic AI systems, and modern web technologies
+💡 **Passionate about:** Creating tools that solve real-world problems using data and AI
+🎯 **2026 Goal:** Ship production-grade AI products and contribute to open-source AI
 
 ---
 
@@ -64,7 +64,7 @@ me.say_hi()
 ## 📊 GitHub Stats
 
 <div align="center">
-  
+
 [![Gaurav's GitHub Stats](https://github-readme-stats.vercel.app/api?username=gauravsurtani&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)](https://github.com/gauravsurtani)
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gauravsurtani&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/gauravsurtani)
@@ -77,24 +77,36 @@ me.say_hi()
 
 ## 🏆 Featured Projects
 
+### 🎙️ [Speech-To-Speech-Translation](https://github.com/gauravsurtani/Speech-To-Speech-Translation-real-time-)
+**Real-time Translation + Speech AI**
+Real-time speech-to-speech translation system for multilingual communication.
+
+### 📰 [tech-blog-catchup](https://github.com/gauravsurtani/tech-blog-catchup)
+**Blog Aggregation + TTS**
+Listen to technical blogs from multiple sources while you travel - turning reading into listening.
+
+### ⚡ [groq-deep-research](https://github.com/gauravsurtani/groq-deep-research)
+**Deep Research + Groq AI**
+Lightning fast deep research app powered by Compound-beta on Groq.
+
 ### 🔗 [Email-Link](https://github.com/gauravsurtani/Email-Link)
-**NLP + Knowledge Graphs + Agentic AI**  
+**NLP + Knowledge Graphs + Agentic AI**
 Advanced email management system that helps users find everything in their email using cutting-edge AI technologies.
 
-### 🍽️ [wat-to-eat](https://github.com/gauravsurtani/wat-to-eat) 
-**Data Engineering + Food Analytics**  
+### 🍽️ [wat-to-eat](https://github.com/gauravsurtani/wat-to-eat)
+**Data Engineering + Food Analytics**
 Data engineering project analyzing Food.com tags to recommend the best food for your taste preferences.
 
 ### 📊 [company-stats](https://github.com/gauravsurtani/company-stats)
-**Job Market Analysis + Data Science**  
+**Job Market Analysis + Data Science**
 Synthesizing Simplify and H1B grader data to find interesting trends in the job market over recent years.
 
 ### 🔥 [fire-prediction](https://github.com/gauravsurtani/fire-prediction) ⭐ 4
-**Machine Learning + Environmental Science**  
+**Machine Learning + Environmental Science**
 Forest fire prediction using weather variables with comprehensive data science workflows.
 
 ### 🎬 [youtube-history-extension](https://github.com/gauravsurtani/youtube-history-extension)
-**Chrome Extension + Web APIs**  
+**Chrome Extension + Web APIs**
 Innovative solution to access YouTube history bypassing API limitations.
 
 ---
@@ -102,7 +114,7 @@ Innovative solution to access YouTube history bypassing API limitations.
 ## 📈 Contribution Graph
 
 <div align="center">
-  
+
 [![Gaurav's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=gauravsurtani&theme=tokyo-night&hide_border=true)](https://github.com/gauravsurtani)
 
 </div>
@@ -119,11 +131,11 @@ graph LR
     D --> E[🌟 Intelligent Solutions]
 ```
 
-**2024 Roadmap:**
-- 🔬 Deep dive into Agentic AI systems
-- 🛠️ Build more production-ready AI applications  
+**2026 Focus:**
+- 🔬 Deep dive into Agentic AI and real-time speech systems
+- 🛠️ Build and ship production-ready AI applications
 - 📚 Contribute to open-source AI projects
-- 🌐 Expand full-stack development skills
+- 🌐 Explore AI-powered developer tooling
 
 ---
 
@@ -156,7 +168,9 @@ graph LR
 ## 💡 Fun Facts
 
 - 🤖 I love building AI solutions that actually solve real problems
-- 🔍 Always curious about the latest developments in AI research  
+- 🔍 Always curious about the latest developments in AI research
+- 🎙️ Built a real-time speech-to-speech translation system for multilingual communication
+- 📰 Created a tool to listen to tech blogs on the go because reading is overrated
 - 🌮 Data engineering with food data? Yes, please! (Check out wat-to-eat)
 - 🔥 Predicting forest fires with ML because why not save the planet?
 - 📧 Built an AI system to manage emails because inbox zero is the dream
@@ -177,4 +191,4 @@ graph LR
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
-</div> 
+</div>
