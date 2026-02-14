@@ -77,25 +77,11 @@ MS in Artificial Intelligence from San Jose State University (May 2025). Previou
 
 ---
 
-## GitHub Stats
+## GitHub
 
 <div align="center">
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gauravsurtani&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)](https://github.com/gauravsurtani)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gauravsurtani&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/gauravsurtani)
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=gauravsurtani&theme=tokyonight&hide_border=true)](https://github.com/gauravsurtani)
-
-</div>
-
----
-
-## Contribution Graph
-
-<div align="center">
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=gauravsurtani&theme=tokyo-night&hide_border=true)](https://github.com/gauravsurtani)
 
 </div>
 
