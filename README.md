@@ -19,6 +19,7 @@ class GauravSurtani:
         self.location = "San Jose, CA 🌉"
         self.current_work = ["Open to Work", "Building AI Tools"]
         self.current_focus = "Full-Stack AI & Agentic Systems"
+        self.education = "MS in Artificial Intelligence - SJSU 🎓"
         self.interests = ["AI/ML", "Data Engineering", "NLP", "Knowledge Graphs"]
         self.hobbies = ["Building Chrome Extensions", "Data Science", "Open Source"]
 
@@ -88,6 +89,10 @@ Listen to technical blogs from multiple sources while you travel - turning readi
 ### ⚡ [groq-deep-research](https://github.com/gauravsurtani/groq-deep-research)
 **Deep Research + Groq AI**
 Lightning fast deep research app powered by Compound-beta on Groq.
+
+### 👁️ [im-watching-you](https://github.com/gauravsurtani/im-watching-you)
+**Privacy-First Lifelogger + Local AI**
+Personal "second brain" combining ActivityWatch, Whisper.cpp, and local LLMs for privacy-first life logging across devices.
 
 ### 🔗 [Email-Link](https://github.com/gauravsurtani/Email-Link)
 **NLP + Knowledge Graphs + Agentic AI**
