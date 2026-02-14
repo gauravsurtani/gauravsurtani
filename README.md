@@ -67,15 +67,13 @@ MS in Artificial Intelligence from San Jose State University (May 2025). Previou
 
 | Project | Description | Stack |
 |---------|-------------|-------|
-| [**Email-Link**](https://github.com/gauravsurtani/Email-Link) | Find everything in your email using NLP, knowledge graphs, and agentic AI | Python, NLP, Knowledge Graphs |
-| [**recruiter-intelligence**](https://github.com/gauravsurtani/recruiter-intelligence) | Full-stack recruiting intelligence with NLP extraction, knowledge graphs, and scored rankings | Python, React, NLP, Supabase |
-| [**Introspect**](https://github.com/gauravsurtani/Introspect) | AI-powered self-reflection platform with chatbot, YouTube history analysis, and personalized insights | Python, GenAI, NLP, YouTube API |
-| [**im-watching-you**](https://github.com/gauravsurtani/im-watching-you) | Life tracking with MCP server for Claude Desktop, LLM classification, and Whisper transcription | Python, MCP, LLM, Docker, FastAPI |
 | [**tech-blog-catchup**](https://github.com/gauravsurtani/tech-blog-catchup) | Turn tech blogs into audio -- aggregate, convert, listen on the go | Python, TTS, RSS |
-| [**groq-deep-research**](https://github.com/gauravsurtani/groq-deep-research) | Lightning-fast deep research app powered by Compound-beta on Groq | JavaScript, Groq, LLM |
+| [**im-watching-you**](https://github.com/gauravsurtani/im-watching-you) | Life tracking with MCP server for Claude Desktop, LLM classification, and Whisper transcription | Python, MCP, LLM, Docker, FastAPI |
+| [**recruiter-intelligence**](https://github.com/gauravsurtani/recruiter-intelligence) | Full-stack recruiting intelligence with NLP extraction, knowledge graphs, and scored rankings | Python, React, NLP, Supabase |
 | [**wat-to-eat**](https://github.com/gauravsurtani/wat-to-eat) | Data engineering on Food.com to find the best food for your taste | Python, Data Engineering |
-| [**company-stats**](https://github.com/gauravsurtani/company-stats) | Job market trend analysis using Simplify and H1B grader data | Python, Data Science, Visualization |
-| [**fire-prediction**](https://github.com/gauravsurtani/fire-prediction) | Forest fire prediction using weather variables and ML | Python, ML, Data Science |
+| [**Email-Link**](https://github.com/gauravsurtani/Email-Link) | Find everything in your email using NLP, knowledge graphs, and agentic AI | Python, NLP, Knowledge Graphs |
+| [**Introspect**](https://github.com/gauravsurtani/Introspect) | AI-powered self-reflection platform with chatbot, YouTube history analysis, and personalized insights | Python, GenAI, NLP, YouTube API |
+| [**Speech-To-Speech-Translation**](https://github.com/gauravsurtani/Speech-To-Speech-Translation-real-time-) | Real-time multilingual speech-to-speech translation system | Python, Speech AI, NLP |
 
 ---
 
