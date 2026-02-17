@@ -56,9 +56,11 @@ Previously: Founding Engineer at **DeepLearning.AI** • Research Intern at **NA
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=gauravsurtani&theme=radical" alt="Most Commit Language" width="49%" />
 </p>
 
-### 📈 Contribution Activity
+### 📈 Contribution Graph
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=gauravsurtani&theme=redical&hide_border=true&area=true)
+<p align="center">
+  <img src="https://ghchart.rshah.org/gauravsurtani" alt="GitHub Contribution Grid" />
+</p>
 
 ---
 
