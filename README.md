@@ -41,11 +41,24 @@ Previously: Founding Engineer at **DeepLearning.AI** • Research Intern at **NA
 
 ### 📊 GitHub Stats
 
-![Gaurav's GitHub Stats](https://github-readme-stats.vercel.app/api?username=gauravsurtani&show_icons=true&theme=radical&hide_border=true&count_private=true)
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gauravsurtani&theme=radical" alt="Contribution Graph" />
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gauravsurtani&layout=compact&theme=radical&hide_border=true)
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=gauravsurtani&theme=radical" alt="GitHub Stats" width="32%" />
+  <img src="https://streak-stats.demolab.com/?user=gauravsurtani&theme=radical&hide_border=true" alt="GitHub Streak" width="34%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=gauravsurtani&theme=radical&utcOffset=-8" alt="Productive Time" width="32%" />
+</p>
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=gauravsurtani&theme=radical&hide_border=true)
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gauravsurtani&theme=radical" alt="Repos per Language" width="49%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=gauravsurtani&theme=radical" alt="Most Commit Language" width="49%" />
+</p>
+
+### 📈 Contribution Activity
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=gauravsurtani&theme=redical&hide_border=true&area=true)
 
 ---
 
@@ -107,4 +120,3 @@ Previously: Founding Engineer at **DeepLearning.AI** • Research Intern at **NA
 ---
 
 > "I build AI systems that solve real problems at scale. From processing 10,000+ engineering blog articles into podcasts, to enabling Claude to be your second brain, to tracking hiring signals across 500+ companies — I focus on production-grade innovation with measurable impact."
-
