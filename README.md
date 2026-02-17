@@ -42,24 +42,17 @@ Previously: Founding Engineer at **DeepLearning.AI** • Research Intern at **NA
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gauravsurtani&theme=radical" alt="Contribution Graph" />
+  <img src="https://ghchart.rshah.org/gauravsurtani" alt="GitHub Contribution Grid" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=gauravsurtani&theme=radical" alt="GitHub Stats" width="32%" />
-  <img src="https://streak-stats.demolab.com/?user=gauravsurtani&theme=radical&hide_border=true" alt="GitHub Streak" width="34%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=gauravsurtani&theme=radical&utcOffset=-8" alt="Productive Time" width="32%" />
+  <img src="https://streak-stats.demolab.com/?user=gauravsurtani&theme=radical&hide_border=true" alt="GitHub Streak" width="49%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=gauravsurtani&theme=radical" alt="GitHub Stats" width="49%" />
 </p>
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gauravsurtani&theme=radical" alt="Repos per Language" width="49%" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=gauravsurtani&theme=radical" alt="Most Commit Language" width="49%" />
-</p>
-
-### 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://ghchart.rshah.org/gauravsurtani" alt="GitHub Contribution Grid" />
 </p>
 
 ---
