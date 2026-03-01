@@ -4,7 +4,7 @@
 
 **Building production AI systems that serve millions.**
 
-Previously: Founding Engineer at **DeepLearning.AI** • Research Intern at **NASA Ames Research Center** • MS in Artificial Intelligence from **San José State University**
+Previously: AI Engineer at **DeepLearning.AI** & **Tassel** • Research Intern at **NASA Ames Research Center** • MS in Artificial Intelligence from **San José State University**
 
 ---
 
