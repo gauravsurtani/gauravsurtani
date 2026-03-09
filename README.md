@@ -109,8 +109,8 @@ AI Engineer at **DeepLearning.AI** & **Tassel** • Research Intern at **NASA Am
 ### 📫 Connect
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/gaurav-surtani)
-[![Email](https://img.shields.io/badge/-Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:gauravsurtani@gmail.com)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://gauravsurtani.com)
+[![Email](https://img.shields.io/badge/-Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:gaurav.surtani.tech@gmail.com)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://gauravsurtani.github.io/)
 
 ---
 
