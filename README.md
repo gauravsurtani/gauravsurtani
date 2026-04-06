@@ -21,7 +21,7 @@ AI Engineer at **DeepLearning.AI** • Previously **Tassel**, **Bexorg**, **NASA
 | Project | What It Does | Stack | Status |
 |---------|-------------|-------|--------|
 | [**dlai-mcp-server**](https://github.com/gauravsurtani/dlai-mcp-server) | MCP server making DLAI's 121 courses searchable from Claude Code, Codex, Cursor. 3 tools, Algolia-powered, Railway hosted. | TypeScript, MCP SDK, Algolia, Railway | [![npm](https://img.shields.io/npm/v/dlai-mcp-server?color=cb3837)](https://www.npmjs.com/package/dlai-mcp-server) |
-| [**tech-blog-catchup**](https://github.com/gauravsurtani/tech-blog-catchup) | Engineering blogs from Uber, Meta, Netflix, Airbnb → AI-generated podcasts. PWA with offline support, MediaSession API. | Next.js, FastAPI, GPT-4, TTS, Railway | [blog2podcast.com](https://blog2podcast.com) |
+| [**tech-blog-catchup**](https://github.com/gauravsurtani/tech-blog-catchup) | Engineering blogs from Uber, Meta, Netflix, Airbnb → AI-generated podcasts. PWA with offline support, MediaSession API. | Next.js, FastAPI, GPT-5.2, TTS, Railway | [blog2podcast.com](https://blog2podcast.com) |
 | [**pair-programmer-cli**](https://github.com/gauravsurtani/pair-programmer-cli) | Multiplayer middleware for AI coding agents — share Claude Code sessions with your team in real-time. | TypeScript, WebSocket, tmux | Published |
 
 ### Recent Highlights
