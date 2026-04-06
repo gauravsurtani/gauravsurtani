@@ -10,7 +10,7 @@ AI Engineer at **DeepLearning.AI** • Previously **Tassel**, **Bexorg**, **NASA
 
 ### What I'm Building
 
-**At DeepLearning.AI** — AI-native recruiting platform with multi-agent orchestration (Claude, Tavily, OpenRouter). Vector search across 288M person records. 165+ PRs shipped, 120+ issues closed. Full-stack: FastAPI + React + Supabase + RDS.
+**At DeepLearning.AI** — Building AI-powered internal tools with multi-agent orchestration, vector search, and full-stack ML systems.
 
 **Open Source** — Production MCP servers, blog-to-podcast pipelines, and developer tools used by the community.
 
@@ -21,16 +21,13 @@ AI Engineer at **DeepLearning.AI** • Previously **Tassel**, **Bexorg**, **NASA
 | Project | What It Does | Stack | Status |
 |---------|-------------|-------|--------|
 | [**dlai-mcp-server**](https://github.com/gauravsurtani/dlai-mcp-server) | MCP server making DLAI's 121 courses searchable from Claude Code, Codex, Cursor. 3 tools, Algolia-powered, Railway hosted. | TypeScript, MCP SDK, Algolia, Railway | [![npm](https://img.shields.io/npm/v/dlai-mcp-server?color=cb3837)](https://www.npmjs.com/package/dlai-mcp-server) |
-| [**harmonic-sourcing**](https://github.com/gauravsurtani/harmonic-sourcing) | AI recruiting platform — candidate sourcing across LinkedIn, GitHub, company DBs. 288M person RDS, Lever integration, market mapping. | FastAPI, React, Supabase, RDS, Claude API | 165+ PRs, 486 tests |
 | [**tech-blog-catchup**](https://github.com/gauravsurtani/tech-blog-catchup) | Engineering blogs from Uber, Meta, Netflix, Airbnb → AI-generated podcasts. PWA with offline support, MediaSession API. | Next.js, FastAPI, GPT-4, TTS, Railway | [blog2podcast.com](https://blog2podcast.com) |
-| [**harmonic-intel**](https://github.com/gauravsurtani/harmonic-intel) | Company intelligence platform — traction signals, funding rounds, talent flow, headcount timelines from Harmonic API. | Flask, React, MCP Server, CLI | Production |
 | [**pair-programmer-cli**](https://github.com/gauravsurtani/pair-programmer-cli) | Multiplayer middleware for AI coding agents — share Claude Code sessions with your team in real-time. | TypeScript, WebSocket, tmux | Published |
 
 ### Recent Highlights
 
-- **DLAI MCP Server** — Went from deep interview → consensus planning (Planner/Architect/Critic) → autopilot execution → npm publish + Railway deploy in a single session. 121 courses, 38 topics, lesson-level detail.
-- **Harmonic Sourcing** — 13 bug-fix PRs in a single day (Mar 1). Market map module (+9,420 lines). Production readiness: OAuth, Lever integration, candidate lists, auth hardening across 24 endpoints.
-- **Tech Blog Catchup** — 28 PRs for full frontend rebuild in one day. PWA mobile overhaul with 34 E2E tests. User submission feature. Railway deployment.
+- **DLAI MCP Server** — Built and shipped an MCP server that makes DeepLearning.AI's course catalog searchable from any AI coding tool. npm published, Railway hosted, 121 courses across 38 topics.
+- **Tech Blog Catchup** — 28 PRs for full frontend rebuild in one day. PWA mobile overhaul with 34 E2E tests. User submission feature. Railway deployment at blog2podcast.com.
 
 ---
 
