@@ -23,10 +23,13 @@ AI Engineer at **DeepLearning.AI** • Previously **Tassel**, **Bexorg**, **NASA
 | [**dlai-mcp-server**](https://github.com/gauravsurtani/dlai-mcp-server) | MCP server making DLAI's 121 courses searchable from Claude Code, Codex, Cursor. 3 tools, Algolia-powered, Railway hosted. | TypeScript, MCP SDK, Algolia, Railway | [![npm](https://img.shields.io/npm/v/dlai-mcp-server?color=cb3837)](https://www.npmjs.com/package/dlai-mcp-server) |
 | [**tech-blog-catchup**](https://github.com/gauravsurtani/tech-blog-catchup) | Engineering blogs from Uber, Meta, Netflix, Airbnb → AI-generated podcasts. PWA with offline support, MediaSession API. | Next.js, FastAPI, GPT-5.2, TTS, Railway | [blog2podcast.com](https://blog2podcast.com) |
 | [**pair-programmer-cli**](https://github.com/gauravsurtani/pair-programmer-cli) | Multiplayer middleware for AI coding agents — share Claude Code sessions with your team in real-time. | TypeScript, WebSocket, tmux | Published |
+| **gaurav-os** | A local work dashboard that derives deployment status from git structure and refuses to call a merge to develop "shipped". Rolling week, per-day build log, commit trails, self-refreshing. | Python, GitHub CLI, launchd | Private, running daily |
+| **jobs-collector** | Collects open roles from 200 company careers pages with per-source outcome accounting, snapshot diffing and robots compliance. 20,000+ live postings. | Node.js, SQLite, Playwright | Private, snapshot Aug 2026 |
 
 ### Recent Highlights
 
 - **DLAI MCP Server** — Built and shipped an MCP server that makes DeepLearning.AI's course catalog searchable from any AI coding tool. npm published, Railway hosted, 121 courses across 38 topics.
+- **Gaurav OS** — built a personal engineering dashboard over my own PR history, with the deployment-honesty rule enforced in code and a mutation-tested self-check suite. Sept 2026.
 - **Tech Blog Catchup** — 28 PRs for full frontend rebuild in one day. PWA mobile overhaul with 34 E2E tests. User submission feature. Railway deployment at blog2podcast.com.
 
 ---
