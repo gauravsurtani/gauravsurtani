@@ -2,7 +2,7 @@
 
 AI Engineer, LLM applications and evaluation
 
-AI engineer with eight years in full-stack, data and ML engineering, building LLM applications since 2024. Currently the founding and sole engineer on DeepLearning.AI's three production AI recruiting products.
+AI engineer with eight years in full-stack, data and ML engineering, building LLM applications. Currently the founding and sole engineer on DeepLearning.AI's three production AI recruiting products.
 
 [Portfolio](https://gauravsurtani.github.io) | [LinkedIn](https://linkedin.com/in/gaurav-surtani) | [Email](mailto:gaurav.surtani.tech@gmail.com) | [blog2podcast.com](https://blog2podcast.com)
 
@@ -36,7 +36,7 @@ Founding AI Engineer at DeepLearning.AI, Sep 2025 to present. I built its three 
 - **Accenture**, Software Engineer, 2018 to 2020
 - **Enthralltech**, Frontend Developer, 2018
 
-MS, Artificial Intelligence, San Jose State University, May 2025.
+MS, Artificial Intelligence, San Jose State University.
 
 ## Skills
 
