@@ -2,7 +2,7 @@
 
 AI Engineer, LLM applications and evaluation
 
-AI engineer with eight years in full-stack, data and ML engineering, building LLM applications. Currently the founding and sole engineer on DeepLearning.AI's three production AI recruiting products.
+AI engineer with eight years in full-stack, data and ML engineering, building LLM applications. Currently the founding and sole engineer on DeepLearning.AI's three AI recruiting products.
 
 [Portfolio](https://gauravsurtani.github.io) | [LinkedIn](https://linkedin.com/in/gaurav-surtani) | [Email](mailto:gaurav.surtani.tech@gmail.com) | [blog2podcast.com](https://blog2podcast.com)
 
