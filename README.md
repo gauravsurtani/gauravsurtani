@@ -1,6 +1,6 @@
 # Gaurav Surtani
 
-AI Engineer, LLM applications and evaluation
+AI Engineer, Product Builder
 
 AI engineer with eight years in full-stack, data and ML engineering, building LLM applications. Currently the founding and sole engineer on DeepLearning.AI's three AI recruiting products.
 
